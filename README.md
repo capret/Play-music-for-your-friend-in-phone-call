@@ -1,6 +1,6 @@
 # Virtual audio cable 使用 #
 利用virtual audio cable 提供的虚拟声卡中转，给语音的对象播放本地音乐
-- 首先下载 virtual audio cable 并进行安装<br>
+- 首先下载 virtual audio cable 并进行安装 [下载地址](https://www.vb-audio.com/Cable/index.htm)<br>
 安装了之后在声音设置里的**播放** 和 **录制** 选项卡会分别出现 **CABLE Input** 和 **CABLE Output**
 ![pic](https://raw.githubusercontent.com/Capre-git/-/master/%E6%89%B9%E6%B3%A8%202019-05-26%20182627.jpg)
 - 录制选项卡设置<br>
