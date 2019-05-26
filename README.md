@@ -16,5 +16,5 @@
 ![pic](https://github.com/Capre-git/-/raw/master/%E6%89%B9%E6%B3%A8%202019-05-26%20183053.jpg)
 - 语音软件设置<br>
 以**QQ**为例，进入 **音视频通话设置**，在**麦克风**选择 **CABLE Output(VB-Audio Virtual Cable)**<br>
-![pic](https://github.com/Capre-git/-/raw/master/%E6%89%B9%E6%B3%A8%202019-05-26%20183053.jpg)
+![pic](https://github.com/Capre-git/-/raw/master/%E6%89%B9%E6%B3%A8%202019-05-26%20183148.jpg)
 ## 设置完毕，现在播放音乐，并与好友通话即可同步播放音频
